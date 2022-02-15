@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture slides on decision making.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-301-managerial-psychology-fall-2006/f0f1165cc6052f4d60bd25892fe17624_lec8.pdf
+file: /media/courses/15-301-managerial-psychology-fall-2006/f0f1165cc6052f4d60bd25892fe17624_lec8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec8.pdf
 uid: f0f1165c-c605-2f4d-60bd-25892fe17624

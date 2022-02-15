@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains guidelines for the social influence paper and
   group projects.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-301-managerial-psychology-fall-2006/21e4e406d532f2b8d89e43d5d5ea6f56_assn2.pdf
+file: /media/courses/15-301-managerial-psychology-fall-2006/21e4e406d532f2b8d89e43d5d5ea6f56_assn2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn2.pdf
 uid: 21e4e406-d532-f2b8-d89e-43d5d5ea6f56
