@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the case assignments that were discussed
+  in recitation sections; these materials were used for 15.310 but not for 15.301.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

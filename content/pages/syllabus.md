@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on the course rationale, format,
+  requirements, textbooks, grading, class participation and conduct, and the policy
+  on individual work.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -62,7 +65,7 @@ There will be two quizzes that will cover readings and lecture material. The fir
 
 ### Paper
 
-There will be an individual paper. The details are in the [assignments]({{< baseurl >}}/pages/assignments) section.
+There will be an individual paper. The details are in the {{% resource_link 09a30e47-1e21-fb1d-bd4d-0d6b3e4f01a3 "assignments" %}} section.
 
 ### Email Assignments
 
