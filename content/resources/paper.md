@@ -6,6 +6,7 @@ file: /courses/15-301-managerial-psychology-fall-2006/ed940e8715f2de1568ab142e87
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paper.pdf
 uid: ed940e87-15f2-de15-68ab-142e871d3662
 ---
 This resource contains guidelines for the individual paper: a case study of social influence.
-

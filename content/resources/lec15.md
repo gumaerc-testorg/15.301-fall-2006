@@ -5,6 +5,7 @@ file: /courses/15-301-managerial-psychology-fall-2006/92d3beaa856fe703116e39fd7f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec15.pdf
 uid: 92d3beaa-856f-e703-116e-39fd7f2fae61
 ---
 Lecture slides on networks.
-

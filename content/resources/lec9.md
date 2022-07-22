@@ -5,6 +5,7 @@ file: /courses/15-301-managerial-psychology-fall-2006/dd77a516956a9d2ef3e8d3a1e6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec9.pdf
 uid: dd77a516-956a-9d2e-f3e8-d3a1e69032ac
 ---
 Lecture slides on negotiation.
-

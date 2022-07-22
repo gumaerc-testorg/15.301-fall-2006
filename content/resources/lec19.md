@@ -5,6 +5,7 @@ file: /courses/15-301-managerial-psychology-fall-2006/fcd32bed309536e241c15f7bc1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec19.pdf
 uid: fcd32bed-3095-36e2-41c1-5f7bc1bd7d23
 ---
 Lecture slides on presentation skills.
-
