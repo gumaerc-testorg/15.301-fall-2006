@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on organizational learning.
 file: /courses/15-301-managerial-psychology-fall-2006/092a9da6dbf6a3b1cf2efb2077a2542d_lec18.pdf
+file_size: 42733
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
