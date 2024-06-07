@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains guidelines for the individual paper: a case study
   of social influence.'
 file: /courses/15-301-managerial-psychology-fall-2006/ed940e8715f2de1568ab142e871d3662_paper.pdf
+file_size: 36010
 file_type: application/pdf
 learning_resource_types:
 - Assignments
