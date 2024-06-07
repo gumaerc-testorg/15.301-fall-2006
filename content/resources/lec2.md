@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on the three lenses.
 file: /courses/15-301-managerial-psychology-fall-2006/3d0d8d96dfd927c118074e8920c497b2_lec2.pdf
+file_size: 35978
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
