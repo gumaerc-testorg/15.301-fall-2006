@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on negotiation.
-file: /courses/15-301-managerial-psychology-fall-2006/dd77a516956a9d2ef3e8d3a1e69032ac_lec9.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-fall-2006/dd77a516956a9d2ef3e8d3a1e69032ac_lec9.pdf
 file_size: 39876
 file_type: application/pdf
 learning_resource_types:

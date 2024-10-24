@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on organizational analysis.
-file: /courses/15-301-managerial-psychology-fall-2006/deb9c264e409f32510efa682d462a047_lec14.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-fall-2006/deb9c264e409f32510efa682d462a047_lec14.pdf
 file_size: 126077
 file_type: application/pdf
 learning_resource_types:

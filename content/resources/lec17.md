@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on leadership and power.
-file: /courses/15-301-managerial-psychology-fall-2006/9c631b4d6edc46cf21f57dd215888365_lec17.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-fall-2006/9c631b4d6edc46cf21f57dd215888365_lec17.pdf
 file_size: 25947
 file_type: application/pdf
 learning_resource_types:
