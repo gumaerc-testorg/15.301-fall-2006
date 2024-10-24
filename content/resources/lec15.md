@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on networks.
-file: /courses/15-301-managerial-psychology-fall-2006/92d3beaa856fe703116e39fd7f2fae61_lec15.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-fall-2006/92d3beaa856fe703116e39fd7f2fae61_lec15.pdf
 file_size: 153234
 file_type: application/pdf
 learning_resource_types:

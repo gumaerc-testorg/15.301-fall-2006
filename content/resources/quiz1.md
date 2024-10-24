@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a take-home quiz.
-file: /courses/15-301-managerial-psychology-fall-2006/ba1cbf64886e8c8f060e785bf80708b3_quiz1.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-fall-2006/ba1cbf64886e8c8f060e785bf80708b3_quiz1.pdf
 file_size: 17534
 file_type: application/pdf
 learning_resource_types:
