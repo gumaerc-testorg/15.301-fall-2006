@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains guidelines for the social influence paper and
   group projects.
-file: /courses/15-301-managerial-psychology-fall-2006/21e4e406d532f2b8d89e43d5d5ea6f56_assn2.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-fall-2006/21e4e406d532f2b8d89e43d5d5ea6f56_assn2.pdf
 file_size: 53951
 file_type: application/pdf
 learning_resource_types:

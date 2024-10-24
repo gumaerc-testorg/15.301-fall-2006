@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on perceptions and attitudes.
-file: /courses/15-301-managerial-psychology-fall-2006/fc5723a927c23de7ff5f03cfd15da4a4_lec4.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-fall-2006/fc5723a927c23de7ff5f03cfd15da4a4_lec4.pdf
 file_size: 57949
 file_type: application/pdf
 learning_resource_types:
