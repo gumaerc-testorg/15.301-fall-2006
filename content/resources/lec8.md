@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on decision making.
-file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-fall-2006/f0f1165cc6052f4d60bd25892fe17624_lec8.pdf
+file: /courses/15-301-managerial-psychology-fall-2006/f0f1165cc6052f4d60bd25892fe17624_lec8.pdf
 file_size: 61255
 file_type: application/pdf
 learning_resource_types:
