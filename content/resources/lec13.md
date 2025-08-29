@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on group decision making.
-file: /courses/15-301-managerial-psychology-fall-2006/90966c36b6455a6ef82a60481c269eaa_lec13.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-fall-2006/90966c36b6455a6ef82a60481c269eaa_lec13.pdf
 file_size: 34503
 file_type: application/pdf
 learning_resource_types:
