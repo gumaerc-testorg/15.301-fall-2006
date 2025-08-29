@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on organizational culture.
-file: /courses/15-301-managerial-psychology-fall-2006/8a80b374f27157b69600dc49ce89a578_lec16.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-fall-2006/8a80b374f27157b69600dc49ce89a578_lec16.pdf
 file_size: 38914
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on presentation skills.
-file: /courses/15-301-managerial-psychology-fall-2006/fcd32bed309536e241c15f7bc1bd7d23_lec19.pdf
+file: /ol-ocw-studio-app/courses/15-301-managerial-psychology-fall-2006/fcd32bed309536e241c15f7bc1bd7d23_lec19.pdf
 file_size: 110833
 file_type: application/pdf
 learning_resource_types:
